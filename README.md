@@ -37,7 +37,7 @@ This is a full-stack clone of Airbnb, focused on building a functional and respo
 ### Importance of a User-Friendly Design
 A smooth, intuitive booking interface reduces friction, builds user trust, and boosts conversions. User-friendly design ensures that visitors can easily search, select, and book accommodations.
 
-### 🎨 Figma Design Specifications
+### Figma Design Specifications
 
 #### Color Styles:
 - **Primary:** `#FF5A5F`
